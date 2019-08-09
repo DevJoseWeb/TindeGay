@@ -1,0 +1,7 @@
+backend/node_modules
+backend/src/credentials
+
+frontend/node_modules
+
+tindev/node_modules
+tindev/android/app/build
